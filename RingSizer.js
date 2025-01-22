@@ -64,9 +64,9 @@ class RingSizeTool {
             }
 
             .controls {
-                position: fixed;
+                position: absolute;
                 bottom: 20px;
-                width: 70%;
+                width: 100%;
                 display: flex;
                 flex-direction: column;
                 align-items: center;
